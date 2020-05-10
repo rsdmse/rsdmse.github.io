@@ -5,7 +5,7 @@ C. Nataraj, R. Sun, and A. van de Walle
 In preparation (2019)  
 
 14. First-principles thermal compatibility between Ru-based Re-substitute alloys and Ir coatings  
-Ruoshi Sun, Mark Asta, and A. van de Walle  
+Ruoshi Sun, Mark Asta, and Axel van de Walle  
 *Computational Materials Science* 170, 109199 (2019)  
 
 13. Elegy  
