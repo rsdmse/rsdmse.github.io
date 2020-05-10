@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to Ruoshi Sun's homepage
 
-You can use the [editor on GitHub](https://github.com/rsdmse/ruoshi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: `<first_name>@alum.mit.edu`
 
-### Markdown
+UVA Research Computing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+560 Ray C. Hunt Drive
 
-```markdown
-Syntax highlighted code block
+Charlottesville, VA 22903
 
-# Header 1
-## Header 2
-### Header 3
+### Experience
 
-- Bulleted
-- List
+- Computational Scientist, University of Virginia, 2019 - present
+- Senior Research Associate, Brown University, 2018 - 2019
+- Postdoctoral Research Associate, Brown University, 2013 - 2018
 
-1. Numbered
-2. List
+### Education
+**Ph.D. Materials Science and Engineering, Massachusetts Institute of Technology, 2013**
 
-**Bold** and _Italic_ and `Code` text
+Thesis: Photovoltaic properties and size-pH phase stability of iron disulfide from density-functional theory
 
-[Link](url) and ![Image](src)
-```
+Advisor: Gerbrand Ceder
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Minor: Music
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rsdmse/ruoshi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**B.S. Materials Science and Engineering, University of Illinois at Urbana-Champaign, 2008**
 
-### Support or Contact
+Thesis: First-principles design maps for predicting anomalous ductility in B2 materials
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Advisor: Duane D. Johnson
+
+
+**B.S. Mathematics, University of Illinois at Urbana-Champaign, 2008**
