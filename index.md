@@ -34,3 +34,5 @@ Advisor: Duane D. Johnson
 
 
 **B.S. Mathematics, University of Illinois at Urbana-Champaign, 2008**
+
+See [here](/publications) for a list of publications.
