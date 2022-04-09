@@ -1,3 +1,11 @@
+I studied music with the following teachers:
+- Prof. Keeril Makan, composition, 2011
+- Ms. Heng-Jin Park, piano, 2010-11 (Emerson Music Scholarship for piano performance)
+- Mr. Chi Wai Sin, 2000-01
+- Ms. Li, piano, 1999-2004
+
+Bach is my favorite composer. My composition style is greatly influenced by Bach and a few neoclassical composers.
+
 A subset of my work is freely hosted on [IMSLP](https://imslp.org/wiki/Category:Sun,_Ruoshi) and [my YouTube channel](https://www.youtube.com/c/RuoshiSun). Here are some of the highlights.
 
 ### Arrangements
