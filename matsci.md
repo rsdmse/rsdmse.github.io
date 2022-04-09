@@ -1,3 +1,9 @@
+During my undergrad at the University of Illinois at Urbana-Champaign, I worked for Prof. Jian-Min Zuo on nanoparticle simulation and Prof. Duane D. Johnson on theory of ductility in B2 materials. The former turned into a Nature Materials paper and the latter was my senior thesis, published in Physical Review B as an Editors' Suggestion ("a small number of papers that the editors and referees find of particular interest, importance, or clarity").
+
+In grad school at MIT, I published a trilogy on the materials properties of pyrite for photovoltaic applications, under the guidance of Prof. Gerbrand Ceder.
+
+I did my postdoc with Prof. Axel van de Walle at Brown University. I mainly investigated the planar defects of Ni<sub>3</sub>Al and the thermal compatibility between Ru-based alloys and Ir coating.
+
 ### Education
 **Ph.D. Materials Science and Engineering, Massachusetts Institute of Technology, 2013**  
 Thesis: Photovoltaic properties and size-pH phase stability of iron disulfide from density-functional theory  
