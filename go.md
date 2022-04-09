@@ -1,3 +1,7 @@
+I was introduced to go by my mother, a descendant of professional go players: Guo Bailing (1587-1662?) from the Ming dynasty and Guo Xuchu (1903-1992). The board game *weiqi* originated in China, but it is commonly known as *go* since it was popularized to the western world by Japan. For a long time, most English go readers only had access to translated Japanese books. I wanted to fill in some of the vacuum regarding ancient Chinese books. I started with the works of Guo Bailing in 2013 and then moved on to other classics.
+
+I am a mid-dan amateur player and participate in local tournaments.
+
 ### Self Publisher
 
 Please visit [my Amazon page](https://www.amazon.com/Ruoshi-Sun/e/B01DQ6NH72).
@@ -13,6 +17,8 @@ Please visit [my Amazon page](https://www.amazon.com/Ruoshi-Sun/e/B01DQ6NH72).
 |Path to Go |2016 |Yi Cheng 弈程 |Zhang Yabo, Shi Xiangxia 張雅博、施襄夏 |1799|
 
 ### Tournaments
+
+[American Go Association Games Database player card](http://agagd.usgo.org/player/18603)
 
 |Place|Division|Tournament|Date|
 |---|---|---|---|
