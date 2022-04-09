@@ -1,10 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Who am I?"
-author: "Ruoshi Sun"
-categories: facts
-tags: [sample]
-image: 
+permalink: /whoami
 ---
 
 I am currently a [**Computational Scientist**](/work) working for Research Computing at the University of Virginia, USA.

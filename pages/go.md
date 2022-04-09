@@ -1,3 +1,9 @@
+---
+layout: page
+title: Go
+permalink: /go
+---
+
 I was introduced to go by my mother, a descendant of professional go players: Guo Bailing (1587-1662?) from the Ming dynasty and Guo Xuchu (1903-1992). The board game *weiqi* originated in China, but it is commonly known as *go* since it was popularized to the western world by Japan (*igo* in Japanese). For a long time, most English go readers only had access to translated Japanese books. I wanted to fill in some of the vacuum regarding ancient Chinese books. I started with the works of Guo Bailing in 2013 and then moved on to other classics.
 
 I am a mid-dan amateur player and participate in local tournaments.

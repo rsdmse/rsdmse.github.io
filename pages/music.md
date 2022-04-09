@@ -1,3 +1,9 @@
+---
+layout: page
+title: Musician
+permalink: /music
+---
+
 I studied music with the following teachers:
 - Prof. Keeril Makan, composition, 2011
 - Ms. Heng-Jin Park, piano, 2010-11 (Emerson Music Scholarship for piano performance)
