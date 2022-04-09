@@ -2,20 +2,20 @@ A subset of my work is freely hosted on [IMSLP](https://imslp.org/wiki/Category:
 
 ### Arrangements
 
-- Piano transcription of Mass in B minor (BWV 232) by J.S. Bach
+Piano transcription of Mass in B minor (BWV 232) by J.S. Bach
 
-    {% include youtubePlayer.html id="eM1-bl4r1VI" %}
+{% include youtubePlayer.html id="eM1-bl4r1VI" %}
 
-- Piano transcription of Cantique de Jean Racine (Op. 11) by Gabriel Fauré
+Piano transcription of Cantique de Jean Racine (Op. 11) by Gabriel Fauré
 
-    {% include youtubePlayer.html id="sMPcqVSqsew" %}
+{% include youtubePlayer.html id="sMPcqVSqsew" %}
 
 ### Compositions
 
-- Fantasia on BACH and DSCH (2009)
+Fantasia on BACH and DSCH (2009)
 
-    {% include youtubePlayer.html id="wz1gs42-qkA" %}
+{% include youtubePlayer.html id="wz1gs42-qkA" %}
 
-- Requiem (work in progress)
+Requiem (work in progress)
 
-    {% include youtubePlayer.html id="Al3eQe8QtPM" %}
+{% include youtubePlayer.html id="Al3eQe8QtPM" %}
