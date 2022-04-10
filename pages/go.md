@@ -8,7 +8,7 @@ I was introduced to go by my mother, a descendant of professional go players: Gu
 
 I am a mid-dan amateur player and participate in local tournaments.
 
-### Self Publisher
+### Self-Published Books
 
 Please visit [my Amazon page](https://www.amazon.com/Ruoshi-Sun/e/B01DQ6NH72).
 

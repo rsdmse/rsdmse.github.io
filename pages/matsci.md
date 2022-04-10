@@ -4,7 +4,7 @@ title: Materials Scientist
 permalink: /matsci
 ---
 
-During my undergrad at the University of Illinois at Urbana-Champaign, I worked for Prof. Jian-Min Zuo on nanoparticle simulation and Prof. Duane D. Johnson on theory of ductility in B2 materials. The former turned into a Nature Materials paper and the latter was my senior thesis, published in Physical Review B as an Editors' Suggestion ("a small number of papers that the editors and referees find of particular interest, importance, or clarity").
+During my undergrad at the University of Illinois at Urbana-Champaign, I worked for Prof. Jian-Min Zuo on nanoparticle simulation and Prof. Duane D. Johnson on the theory of ductility in B2 materials. The former turned into a Nature Materials paper and the latter was my senior thesis, published in Physical Review B as an Editors' Suggestion ("a small number of papers that the editors and referees find of particular interest, importance, or clarity").
 
 In grad school at MIT, I published a trilogy on the materials properties of pyrite for photovoltaic applications, under the guidance of Prof. Gerbrand Ceder.
 
