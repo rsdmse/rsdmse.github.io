@@ -12,6 +12,7 @@ menu:
 - {name: 'Materials Scientist',     url: 'matsci'}
 - {name: 'Musician',                url: 'music'}
 - {name: 'Self-Publisher',          url: 'go'}
+- {name: 'Writings',                url: 'writings'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
