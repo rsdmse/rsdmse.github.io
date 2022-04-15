@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Classical Chinese translation of the final chorus in Bach's St. Mattew Passion"
+title: "Classical Chinese translation of the final chorus in Bach's St. Matthew Passion"
 author: "Ruoshi Sun"
 categories: writings
 tags: [translation,music]
 image:
 ---
 
-Today I translated "Wir setzen uns mit Tränen nieder", the final chorus in Bach's St. Mattew Passion, into classical Chinese.
+Today I translated "Wir setzen uns mit Tränen nieder", the final chorus in Bach's St. Matthew Passion, into classical Chinese.
 
 |Original|Translation|
 |---|---|
