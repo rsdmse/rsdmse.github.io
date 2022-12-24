@@ -32,7 +32,7 @@ and the latter uses the precise notation:
 The precise notation is also used in Contrapunctus VI from the Art of Fugue, BWV 1080:
 ![](/assets/img/ContrapunctusVI.png)
 
-If one is still not convinced that the two notations are equivalent, Bach's manuscript of the French Overture, BWV 831 should settle all disputes. Here both notations are used. In the second instance, the second 32nd note is aligned with the 16th note in the left hand:
+If one is still not convinced that the two notations are equivalent, Bach's manuscript of the French Overture, BWV 831 should settle all disputes. Here both notations are used. In the first marked instance, we see the precise notation; in the second instance, the second 32nd note is aligned with the 16th note in the left hand:
 ![](/assets/img/FrenchOverture.png)
 
 To me, this is very strong evidence that the dotted notation is to be treated exactly as the precise notation and that the former is only a matter of convenience in writing, which should not have been a source of confusion at the time, but nowadays certain scholars may have confused themselves.
