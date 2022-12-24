@@ -9,7 +9,7 @@ image:
 
 András Schiff is my favorite living pianist. However, I disagree with him on two examples regarding Bach's notation in the French style.
 
-## Example 1: Sinfonia from Partita No. 2 in C minor, BWV 826
+### Example 1: Sinfonia from Partita No. 2 in C minor, BWV 826
 The first two occurrences of the rhythmic motif at question are marked. This occurs throughout the Grave section. In Schiff's interpretation, however, the 16th rest is (double-)dotted, as he explains in [his lecture on the Bach Partitas](https://www.youtube.com/watch?v=JVjBIKNed_Q&t=48m44s). 
 ![](/assets/img/PartitaNo2.png)
 
@@ -20,7 +20,7 @@ Now this by itself does not prove anything, but if we look a few bars ahead, we 
 
 The same logic would apply to the Partita. One could argue about single- versus double-dotted, but that is a different subject matter.
 
-## Example 2: Gigue from French Suite No. 1 in D minor, BWV 812
+### Example 2: Gigue from French Suite No. 1 in D minor, BWV 812
 This example is especially problematic due to the context of "gigue." One school, including Schiff, argues that gigues are in three or compound time and thus it would be wrong to play this movement literally. I do not claim to be a scholar in this aspect, but I wish to share some of my observations regarding just the rhythmic motif of a dotted 8th followed by three 32nd notes alone, which appear in the subject of the fugue. The 2017 Henle edition even suggests that "playing [the 32nd notes] as triplets is conceivable."
 ![](/assets/img/French1Gigue.png)
 
