@@ -24,7 +24,7 @@ The same logic would apply to the Partita. One could argue about single- versus 
 This example is especially problematic due to the context of "gigue." One school, including Schiff, argues that gigues are in three or compound time and thus it would be wrong to play this movement as written. I do not claim to be a scholar in this aspect, but I wish to share some of my observations regarding just the rhythmic motif of a dotted 8th followed by three 32nd notes alone, which appear in the subject of the fugue. The 2017 Henle edition even suggests that "playing [the 32nd notes] as triplets is conceivable."
 ![](/assets/img/French1Gigue.png)
 
-As with the first example, we must examine Bach's corpus for evidence. This rhythmic motif occurs in two preludes from the Well-Tempered Clavier, Book 2, namely F-sharp and A-flat. The former uses the ambiguous dotted notation:
+As with the first example, we must examine Bach's corpus for evidence. This rhythmic motif occurs in two preludes from the Well-Tempered Clavier, Book 2, namely F-sharp major and A-flat major. The former uses the ambiguous dotted notation:
 ![](/assets/img/PreludeFsharp.png)
 and the latter uses the precise notation:
 ![](/assets/img/PreludeAflat.png)
