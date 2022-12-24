@@ -35,6 +35,6 @@ The precise notation is also used in Contrapunctus VI from the Art of Fugue, BWV
 If one is still not convinced that the two notations are equivalent, Bach's manuscript of the French Overture, BWV 831 should settle all disputes. Here both notations are used. In the second circle with the dotted notation, the second 32nd note is aligned with the 16th note in the left hand:
 ![](/assets/img/FrenchOverture.png)
 
-To me, this is very strong evidence that the dotted notation is to be treated exactly like the precise notation and that the former is very likely only a matter of convenience, which should not have been a source of confusion at the time, but nowadays certain scholars may have confused themselves.
+To me, this is very strong evidence that the dotted notation is to be treated exactly as the precise notation and that the former is only a matter of convenience, which should not have been a source of confusion at the time, but nowadays certain scholars may have confused themselves.
 
-In light of such supporting evidence, I believe the same rhythm should be played in the Gigue, which implies the meter is indeed in 2/2. I am not convinced that Bach would deliberately compose in a wrong meter. In any case, the 32nd notes are definitely not to be played as triplets.
+In light of such supporting evidence, I believe the same rhythm should be played in the Gigue, which implies the meter is indeed in 2/2 (or 4/4 in certain editions). I am not convinced that Bach would deliberately compose in a wrong meter. In any case, the 32nd notes are definitely not to be played as triplets.
