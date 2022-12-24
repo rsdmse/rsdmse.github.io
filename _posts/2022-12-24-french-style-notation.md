@@ -7,4 +7,7 @@ tags: [translation,music]
 image:
 ---
 
-![Test](ContrapunctusVI.png)
+![here](/ContrapunctusVI.png)
+![here2](/assets/img/ContrapunctusVI.png)
+![here3](/img/ContrapunctusVI.png)
+![here4](/_posts/ContrapunctusVI.png)
