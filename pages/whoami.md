@@ -4,7 +4,7 @@ title: "Who am I?"
 permalink: /whoami
 ---
 
-I am currently a [**Computational Scientist**](/work) working for Research Computing at the University of Virginia, USA.
+I am currently a [**Senior Computational Scientist**](/work) working for Research Computing at the University of Virginia, USA.
 
 I was trained as a [**Materials Scientist**](/matsci), specializing in first-principles density-functional theory computational methods to predict materials properties.
 

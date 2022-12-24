@@ -6,8 +6,9 @@ permalink: /music
 
 I am a volunteer pianist at UVA University Hospital (Charlottesville, VA) through the “Music for Healing” program.
 
-I studied music with the following teachers:
-- Prof. Keeril Makan, composition, 2011
+My music teachers include:
+- Dr. Lise Keiter, piano, 2022-current
+- Dr. Keeril Makan, composition, 2011
 - Ms. Heng-Jin Park, piano, 2010-11 (Emerson Music Scholarship for piano performance)
 - Mr. Chi Wai Sin, theory, 2000-01
 - Ms. Li, piano, 1999-2004
