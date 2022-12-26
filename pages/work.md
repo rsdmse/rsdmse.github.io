@@ -4,8 +4,9 @@ title: Computational Scientist
 permalink: /work
 ---
 
-*Senior Computational Scientist*, July 2022 - present
-*Computational Scientist*, Oct 2019 - June 2022
+**Senior Computational Scientist**, July 2022 - present
+
+**Computational Scientist**, Oct 2019 - June 2022
 
 - I provide consultation with domain expertise in building/using quantum chemistry codes.
 - I prepare/teach workshops on topics such as: building C/C++/Fortran codes, using and building containers, using RAPIDS (NVIDIA), using Spark (Apache), benchmarking parallel programs.
